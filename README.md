@@ -1,6 +1,6 @@
 # 🚀 Solana SPL Token Sniper Bot | Raydium Trading Bot | Auto Buy/Sell Bot
 
-![](https://github.com/earthskyorg/Sol-Sniper-Bot/blob/main/readme/cryptomemesniperlogo.png)
+![](https://github.com/shiny-lua/Sol-Sniper-Bot/blob/main/readme/cryptomemesniperlogo.png)
 
 **Advanced Solana Trading Bot** that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL.
 Depending on the speed of the RPC node, the purchase usually happens before the token is available on Raydium UI for swapping.
@@ -27,10 +27,10 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 
 ## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
 
-Telegram: https://t.me/opensea712
+Telegram: https://t.me/i3_sol
 
 <div style={{display : flex ; justify-content : space-evenly}}> 
-   <a href="https://t.me/opensea712" target="_blank"><img alt="Telegram"
+   <a href="https://t.me/i3_sol" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
    <a href="https://discordapp.com/users/343286332446998530" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -44,7 +44,7 @@ To run the script you need to:
 
 `Jupiter Wrap` : https://jup.ag/
 
-![](https://github.com/earthskyorg/Sol-Sniper-Bot/blob/main/readme/jupiterwrap.png)
+![](https://github.com/shiny-lua/Sol-Sniper-Bot/blob/main/readme/jupiterwrap.png)
 
 ## CONFIG
 1. Configure the script by updating `.env.copy` file (**remove the .copy from the file name when done**).
@@ -64,13 +64,13 @@ To run the script you need to:
 15. `STOP_LOSS=50` (in %)
 16. `BIRDEYE_API_KEY=` (TP/SL, Burn/Lock) generate here : https://docs.birdeye.so/docs/authentication-api-keys
 
-![](https://github.com/earthskyorg/Sol-Sniper-Bot/blob/main/readme/env.png)
+![](https://github.com/shiny-lua/Sol-Sniper-Bot/blob/main/readme/env.png)
   
 ## INSTALL
 1. Install dependencies by typing: `npm install`
 2. Run the script by typing: `npm run buy` in terminal
 
-![](https://github.com/earthskyorg/Sol-Sniper-Bot/blob/main/readme/preview.png)
+![](https://github.com/shiny-lua/Sol-Sniper-Bot/blob/main/readme/preview.png)
 
 ## TAKE PROFIT
 
@@ -91,7 +91,7 @@ By default, auto sell is enabled. If you want to disable it, you need to:
 If you set AUTO_SELL_DELAY to 0, token will be sold immediately after it is bought.
 There is no guarantee that the token will be sold at a profit or even sold at all. The developer is not responsible for any losses incurred by using this feature.
 
-![](https://github.com/earthskyorg/Sol-Sniper-Bot/blob/main/readme/token.png)
+![](https://github.com/shiny-lua/Sol-Sniper-Bot/blob/main/readme/token.png)
 
 ## SNIPE LIST
 By default, script buys each token which has a new liquidity pool created and open for trading.
@@ -106,7 +106,7 @@ You can update the list while script is running. Script will check for new value
 Pool must not exist before the script starts.
 It will buy only when new pool is open for trading. If you want to buy token that will be launched in the future, make sure that script is running before the launch.
 
-![](https://github.com/earthskyorg/Sol-Sniper-Bot/blob/main/readme/snipelist.png)
+![](https://github.com/shiny-lua/Sol-Sniper-Bot/blob/main/readme/snipelist.png)
 
 ## COMMON ISSUES
 
