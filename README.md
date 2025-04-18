@@ -32,8 +32,6 @@ Telegram: https://t.me/i3_sol
 <div style={{display : flex ; justify-content : space-evenly}}> 
    <a href="https://t.me/i3_sol" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-   <a href="https://discordapp.com/users/343286332446998530" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 ## SETUP
